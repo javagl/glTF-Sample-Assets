@@ -12,8 +12,8 @@ A simple unit cube that uses vertex colors, stored in the `COLORS_0` attribute.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BoxVertexColors/glTF-Binary/BoxVertexColors.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BoxVertexColors/glTF-Binary/BoxVertexColors.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BoxVertexColors/glTF-Binary/BoxVertexColors.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BoxVertexColors/glTF-Binary/BoxVertexColors.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -27,7 +27,7 @@ A simple unit cube that uses vertex colors, stored in the `COLORS_0` attribute. 
 
 ## Legal
 
-&copy; 2023, Public. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2023, Public. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Marco Hutter (https://github.com/javagl/) for Everything
 

@@ -17,7 +17,7 @@ Tests KHR_materials_iridescence on a metallic material.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceMetallicSpheres/glTF/IridescenceMetallicSpheres.gltf) in SampleViewer
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceMetallicSpheres/glTF/IridescenceMetallicSpheres.gltf) in SampleViewer
 * [Model Directory](./)
 
 ## Screenshot
@@ -34,7 +34,7 @@ Scene to show the parametrization of the `KHR_materials_iridescence` extension w
 
 ## Legal
 
-&copy; 2022, UX3D. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2022, UX3D. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - UX3D for Everything
 

@@ -12,7 +12,7 @@ Building interior, often used to test lighting.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/Sponza/glTF/Sponza.gltf) in SampleViewer
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/Sponza/glTF/Sponza.gltf) in SampleViewer
 * [Model Directory](./)
 
 ## Screenshot

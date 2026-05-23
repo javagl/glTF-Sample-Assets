@@ -16,8 +16,8 @@ A model of an abalone shell with highly iridescent interior.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceAbalone/glTF-Binary/IridescenceAbalone.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceAbalone/glTF-Binary/IridescenceAbalone.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceAbalone/glTF-Binary/IridescenceAbalone.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceAbalone/glTF-Binary/IridescenceAbalone.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -44,11 +44,11 @@ While the textures are powers-of-two they are not square; a resolution of 2048 b
 
 ## Legal
 
-&copy; 2015, Abby Crawford. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2015, Abby Crawford. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Abby Crawford for Everything
 
-&copy; 2023, Eric Chadwick. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2023, Eric Chadwick. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for Materials
 

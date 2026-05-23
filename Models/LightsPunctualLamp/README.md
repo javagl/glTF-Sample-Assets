@@ -17,8 +17,8 @@ Lamp using punctual lights.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/LightsPunctualLamp/glTF-Binary/LightsPunctualLamp.glb)
 * [Model Directory](./)
 
 ## Screenshots
@@ -44,7 +44,7 @@ Model created using [Blender](https://www.blender.org/) and [Gestaltor](https://
 
 ## Legal
 
-&copy; 2021, DGG. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2021, DGG. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - DGG for Everything
 

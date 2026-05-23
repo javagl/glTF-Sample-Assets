@@ -16,7 +16,7 @@ Scattering of light through the tangerine using the glTF diffuse transmission ex
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/MandarinOrange/glTF/MandarinOrange.gltf) in SampleViewer
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/MandarinOrange/glTF/MandarinOrange.gltf) in SampleViewer
 * [Model Directory](./)
 
 ## Screenshot
@@ -40,11 +40,11 @@ The [original model](https://sketchfab.com/3d-models/orange-774bc66d11c24855bf72
 
 ## Legal
 
-&copy; 2015, zamdreamer. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2015, zamdreamer. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - zamdreamer for Initial creation
 
-&copy; 2023, Wayfair. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2023, Wayfair. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for glTF PBR material
 

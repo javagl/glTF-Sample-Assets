@@ -6,13 +6,11 @@
 
 [extension](../Models-extension.md)
 
-## Extensions
-
-### Required
+## Extensions Required
 
 * KHR_materials_sheen
 
-### Used
+## Extensions Used
 
 * KHR_materials_sheen
 
@@ -22,8 +20,8 @@ Grid of spheres over a checkered backdrop to test Sheen rendering.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenTestGrid/glTF-Binary/SheenTestGrid.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenTestGrid/glTF-Binary/SheenTestGrid.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenTestGrid/glTF-Binary/SheenTestGrid.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenTestGrid/glTF-Binary/SheenTestGrid.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -47,7 +45,7 @@ The sheen extension has been explicitly added to each of the sixteen materials, 
 
 ## Legal
 
-&copy; 2023, Public. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2023, Public. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Eric Chadwick for Everything
 

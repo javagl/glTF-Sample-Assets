@@ -20,7 +20,7 @@ A real product, a Tiffany-style stained glass table lamp sold on the Wayfair web
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/StainedGlassLamp/glTF/StainedGlassLamp.gltf) in SampleViewer
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/StainedGlassLamp/glTF/StainedGlassLamp.gltf) in SampleViewer
 * [Model Directory](./)
 
 ## Screenshot
@@ -168,7 +168,7 @@ The textures were created from photo reference, augmented with procedural textur
 
 ## Legal
 
-&copy; 2021, Wayfair. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2021, Wayfair. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for Everything
 

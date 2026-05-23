@@ -1,7 +1,4 @@
 version = 1
-SPDX-PackageName = "glTF 2.0 Model Repo"
-SPDX-PackageSupplier = "https://GitHub.com/KhronosGroup/glTF-Sample-Models/"
-SPDX-PackageDownloadLocation = "glTF 2.0 models from various sources collected into a Repo"
 
 [[annotations]]
 path = "**"

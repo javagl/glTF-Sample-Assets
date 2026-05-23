@@ -6,14 +6,12 @@
 
 [showcase](../Models-showcase.md), [extension](../Models-extension.md)
 
-## Extensions
-
-### Required
+## Extensions Required
 
 * KHR_materials_specular
 * KHR_materials_sheen
 
-### Used
+## Extensions Used
 
 * KHR_materials_specular
 * KHR_materials_sheen
@@ -24,8 +22,8 @@ Wayfair SpecularSilkPouf model using sheen and specular extensions.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SpecularSilkPouf/glTF-Binary/SpecularSilkPouf.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SpecularSilkPouf/glTF-Binary/SpecularSilkPouf.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SpecularSilkPouf/glTF-Binary/SpecularSilkPouf.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SpecularSilkPouf/glTF-Binary/SpecularSilkPouf.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -50,7 +48,7 @@ The asset was created using [3ds Max](https://www.autodesk.com/products/3ds-max)
 
 ## Legal
 
-&copy; 2023, Copyright 2023 Wayfair, LLC. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2023, Copyright 2023 Wayfair, LLC. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for Everything
 

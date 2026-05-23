@@ -4,7 +4,7 @@
 
 ## Tags
 
-[extension](../Models-extension.md), [testing](../Models-testing.md), pbrtest
+[extension](../Models-extension.md), [testing](../Models-testing.md), [pbrtest](../Models-pbrtest.md)
 
 ## Extensions Used
 
@@ -17,8 +17,8 @@ This model compares clearcoat methods.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/CompareClearcoat/glTF-Binary/CompareClearcoat.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -36,7 +36,7 @@ This model is used on the Khronos glTF PBR website to contrast the omission vers
 
  - Non-copyrightable logo for glTF logo
 
-&copy; 2024, Public. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2024, Public. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Eric Chadwick and DGG for Everything
 

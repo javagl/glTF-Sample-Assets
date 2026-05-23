@@ -6,14 +6,12 @@
 
 [extension](../Models-extension.md), [testing](../Models-testing.md)
 
-## Extensions
-
-### Required
+## Extensions Required
 
 * KHR_texture_transform
 * KHR_materials_clearcoat
 
-### Used
+## Extensions Used
 
 * KHR_texture_transform
 * KHR_materials_clearcoat
@@ -24,8 +22,8 @@ This model is a sphere using the glTF ClearCoat extension overtop a car paint ba
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/ClearCoatCarPaint/glTF-Binary/ClearCoatCarPaint.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -53,7 +51,7 @@ Roughness was increased to 0.4 to scatter the reflected light and to provide a c
 
 ## Legal
 
-&copy; 2023, Public. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2023, Public. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Eric Chadwick for Everything
 

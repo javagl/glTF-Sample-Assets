@@ -12,8 +12,8 @@ Animations. Skins.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BrainStem/glTF-Binary/BrainStem.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BrainStem/glTF-Binary/BrainStem.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BrainStem/glTF-Binary/BrainStem.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/BrainStem/glTF-Binary/BrainStem.glb)
 * [Model Directory](./)
 
 ## Screenshot

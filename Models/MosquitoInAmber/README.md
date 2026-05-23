@@ -18,8 +18,8 @@ Mosquito in amber by Sketchfab, using transmission, IOR, and volume.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/MosquitoInAmber/glTF-Binary/MosquitoInAmber.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -46,11 +46,11 @@ Model by Loïc Norgeot and mosquito scan by Geoffrey Marchal for Sketchfab licen
 
 ## Legal
 
-&copy; 2018, Sketchfab. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2018, Sketchfab. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Loic Norgeot for Model
 
-&copy; 2019, Sketchfab. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2019, Sketchfab. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Sketchfab for Real-time refraction
 

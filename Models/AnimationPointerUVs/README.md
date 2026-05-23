@@ -6,14 +6,12 @@
 
 [extension](../Models-extension.md), [testing](../Models-testing.md)
 
-## Extensions
-
-### Required
+## Extensions Required
 
 * KHR_materials_unlit
 * KHR_lights_punctual
 
-### Used
+## Extensions Used
 
 * KHR_materials_transmission
 * KHR_materials_volume
@@ -34,8 +32,8 @@ This model tests UV transform animations with KHR_animation_pointer.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimationPointerUVs/glTF-Binary/AnimationPointerUVs.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -81,7 +79,7 @@ The asset was created in 3ds Max 2024, and exported with the [HS glTF Exporter](
 
 ## Legal
 
-&copy; 2024, Darmstadt Graphics Group GmbH. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2024, Darmstadt Graphics Group GmbH. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for 3D asset and textures
 

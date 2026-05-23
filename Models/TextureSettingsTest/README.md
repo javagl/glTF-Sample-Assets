@@ -12,8 +12,8 @@ Tests single/double-sided and various texturing modes.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureSettingsTest/glTF-Binary/TextureSettingsTest.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureSettingsTest/glTF-Binary/TextureSettingsTest.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureSettingsTest/glTF-Binary/TextureSettingsTest.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureSettingsTest/glTF-Binary/TextureSettingsTest.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -38,7 +38,7 @@ All of the failure conditions are a different shape from the corresponding succe
 
 ## Legal
 
-&copy; 2017, Analytical Graphics, Inc.. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2017, Analytical Graphics, Inc.. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Ed Mackey for Everything
 

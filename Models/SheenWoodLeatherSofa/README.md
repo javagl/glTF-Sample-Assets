@@ -6,14 +6,12 @@
 
 [showcase](../Models-showcase.md), [extension](../Models-extension.md)
 
-## Extensions
-
-### Required
+## Extensions Required
 
 * KHR_texture_transform
 * EXT_texture_webp
 
-### Used
+## Extensions Used
 
 * KHR_materials_specular
 * KHR_materials_sheen
@@ -26,8 +24,8 @@ Sofa asset using sheen, specular, and high-quality tiling textures.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/SheenWoodLeatherSofa/glTF-Binary/SheenWoodLeatherSofa.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -57,11 +55,11 @@ To keep the asset at a reasonable file size (under 10mb) the textures were compr
 
 ## Legal
 
-&copy; 2024, Darmstadt Graphics Group GmbH. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2024, Darmstadt Graphics Group GmbH. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for Improvements
 
-&copy; 2021, Public domain. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2021, Public domain. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Fran Calvente for Original asset
 

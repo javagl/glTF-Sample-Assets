@@ -16,8 +16,8 @@ DiffuseTransmissionTeacup model using Diffuse Transmission extension.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTeacup/glTF-Binary/DiffuseTransmissionTeacup.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -37,7 +37,7 @@ This asset demonstrates the use of KHR_materials_diffuse_transmission to represe
 
 ## Legal
 
-&copy; 2023, Public domain. [CC0 1.0 Universal](https://creativecommons.org/share-your-work/public-domain/cc0)
+&copy; 2023, Public domain. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Polyhaven.com, and Eric Chadwick for Models and Textures
 

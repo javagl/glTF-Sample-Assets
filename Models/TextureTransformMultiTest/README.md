@@ -6,13 +6,11 @@
 
 [testing](../Models-testing.md), [extension](../Models-extension.md)
 
-## Extensions
-
-### Required
+## Extensions Required
 
 * KHR_texture_transform
 
-### Used
+## Extensions Used
 
 * KHR_materials_clearcoat
 * KHR_materials_unlit
@@ -24,8 +22,8 @@ Tests if the KHR_texture_transform extension is supported for several inputs.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureTransformMultiTest/glTF-Binary/TextureTransformMultiTest.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureTransformMultiTest/glTF-Binary/TextureTransformMultiTest.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureTransformMultiTest/glTF-Binary/TextureTransformMultiTest.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureTransformMultiTest/glTF-Binary/TextureTransformMultiTest.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -90,7 +88,7 @@ The "UV 1" boxes shown here are blank due to a known limitation in this renderin
 
 ## Legal
 
-&copy; 2020, Analytical Graphics, Inc.. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2020, Analytical Graphics, Inc.. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Ed Mackey for Everything
 

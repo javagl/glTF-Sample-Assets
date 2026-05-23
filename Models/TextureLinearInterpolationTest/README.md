@@ -12,8 +12,8 @@ Tests that linear texture interpolation is performed on linear values, i.e. afte
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureLinearInterpolationTest/glTF-Binary/TextureLinearInterpolationTest.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureLinearInterpolationTest/glTF-Binary/TextureLinearInterpolationTest.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureLinearInterpolationTest/glTF-Binary/TextureLinearInterpolationTest.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/TextureLinearInterpolationTest/glTF-Binary/TextureLinearInterpolationTest.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -36,7 +36,7 @@ This asset tests that linear texture interpolation is performed on linear values
 
 ## Legal
 
-&copy; 2017, Public. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2017, Public. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - lexaknyazev for Everything
 

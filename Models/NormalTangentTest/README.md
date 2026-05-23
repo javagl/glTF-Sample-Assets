@@ -12,8 +12,8 @@ Tests an engine's ability to automatically generate tangent vectors for a normal
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/NormalTangentTest/glTF-Binary/NormalTangentTest.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/NormalTangentTest/glTF-Binary/NormalTangentTest.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/NormalTangentTest/glTF-Binary/NormalTangentTest.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/NormalTangentTest/glTF-Binary/NormalTangentTest.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -50,7 +50,7 @@ This is a common problem, that often indicates the rendering engine has mis-inte
 
 ## Legal
 
-&copy; 2018, Analytical Graphics, Inc.. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2018, Analytical Graphics, Inc.. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Ed Mackey for Everything
 

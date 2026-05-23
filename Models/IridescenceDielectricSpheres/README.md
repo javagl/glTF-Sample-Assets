@@ -17,7 +17,7 @@ Tests KHR_materials_iridescence on a non-metallic material.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceDielectricSpheres/glTF/IridescenceDielectricSpheres.gltf) in SampleViewer
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/IridescenceDielectricSpheres/glTF/IridescenceDielectricSpheres.gltf) in SampleViewer
 * [Model Directory](./)
 
 ## Screenshot
@@ -34,7 +34,7 @@ Scene to show the parametrization of the `KHR_materials_iridescence` extension w
 
 ## Legal
 
-&copy; 2019, Public. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2019, Public. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Khronos for Everything
 

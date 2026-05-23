@@ -12,8 +12,8 @@ Tests node translations and rotations.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/OrientationTest/glTF-Binary/OrientationTest.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/OrientationTest/glTF-Binary/OrientationTest.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/OrientationTest/glTF-Binary/OrientationTest.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/OrientationTest/glTF-Binary/OrientationTest.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -40,7 +40,7 @@ This image shows the red, green, and blue arrows, which all use rotation quatern
 
 ## Legal
 
-&copy; 2017, Unknown. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2017, Unknown. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Khronos for Everything
 

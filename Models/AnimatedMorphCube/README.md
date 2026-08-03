@@ -12,8 +12,8 @@ Demonstrates a simple cube with two simple morph targets and an animation that t
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimatedMorphCube/glTF-Binary/AnimatedMorphCube.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimatedMorphCube/glTF-Binary/AnimatedMorphCube.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimatedMorphCube/glTF-Binary/AnimatedMorphCube.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/AnimatedMorphCube/glTF-Binary/AnimatedMorphCube.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -31,7 +31,7 @@ The animation loops, morphing between these two states.
 
 ## Legal
 
-&copy; 2017, Public. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2017, Public. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Microsoft for Everything
 

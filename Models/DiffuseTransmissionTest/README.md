@@ -6,14 +6,12 @@
 
 [video](../Models-video.md), [written](../Models-written.md), [extension](../Models-extension.md)
 
-## Extensions
-
-### Required
+## Extensions Required
 
 * KHR_materials_unlit
 * KHR_lights_punctual
 
-### Used
+## Extensions Used
 
 * KHR_materials_diffuse_transmission
 * KHR_materials_unlit
@@ -25,8 +23,8 @@ Test model for KHR_materials_diffuse_transmission extension.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTest/glTF-Binary/DiffuseTransmissionTest.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTest/glTF-Binary/DiffuseTransmissionTest.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTest/glTF-Binary/DiffuseTransmissionTest.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionTest/glTF-Binary/DiffuseTransmissionTest.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -51,7 +49,7 @@ _Path-traced render from Dassault Systèmes [Stellar Physically Correct](https:/
 
 ## Legal
 
-&copy; 2025, Darmstadt Graphics Group GmbH. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2025, Darmstadt Graphics Group GmbH. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for Model and textures
 

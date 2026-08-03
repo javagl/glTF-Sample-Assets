@@ -17,8 +17,8 @@ Potted plant asset using Diffuse Transmission extension.
 
 ## Operations
 
-* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb) in SampleViewer
-* [Download GLB](https://raw.GithubUserContent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb)
+* [Display](https://github.khronos.org/glTF-Sample-Viewer-Release/?model=https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb) in SampleViewer
+* [Download GLB](https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/./Models/DiffuseTransmissionPlant/glTF-Binary/DiffuseTransmissionPlant.glb)
 * [Model Directory](./)
 
 ## Screenshot
@@ -49,11 +49,11 @@ For optimal texture quality, lossless versions of the textures were re-downloade
 
 ## Legal
 
-&copy; 2024, Darmstadt Graphics Group GmbH. [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
+&copy; 2024, Darmstadt Graphics Group GmbH. [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode)
 
  - Eric Chadwick for Materials and animation
 
-&copy; 2021, Public domain. [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
+&copy; 2021, Public domain. [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/legalcode)
 
  - Rico Cilliers for Original asset
 
